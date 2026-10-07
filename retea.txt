@@ -1,0 +1,16 @@
+6
+Castle 10 3 Inger Arhanghel Grifon
+Rampart 15 2 Centaur Elf
+Tower 20 3 Golem Gargui Titan
+Inferno 5 2 Drac Cerber
+Necropolis 10 3 Schelet Zombi Vampir
+Dungeon 25 2 Minotaur Dragon
+8
+Castle Rampart 10
+Castle Tower 15
+Rampart Tower 5
+Tower Inferno 20
+Inferno Necropolis 10
+Necropolis Dungeon 30
+Dungeon Castle 50
+Rampart Necropolis 25
